@@ -1,5 +1,5 @@
 {
-  "name": "shoppingapp",
+ "name": "shoppingapp1",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://vinothini0408.github.io/shoppingapp1",
@@ -14,7 +14,6 @@
     "react-router-dom": "^7.6.2",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
- 
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
